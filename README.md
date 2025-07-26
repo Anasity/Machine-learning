@@ -3,7 +3,16 @@
 _Автор: Дубовик Анастасия Александровна_
  ### 1. Анализ временных рядов
 **1. [Производные валютного тренда](https://github.com/Anasity/Machine-learning/tree/2a9291a83cae8d8540636e1de1e75092d8ecee54/Machine%20learning/Linear-regression)**  
-| Python, NumPy, Matplotlib | • Линейная регрессия<br>• Численное дифференцирование (`np.gradient`)<br>• Интегрирование полиномов |  
-**2. [Нелинейная аппроксимация](https://github.com/Anasity/Machine-learning/tree/2a9291a83cae8d8540636e1de1e75092d8ecee54/Machine%20learning/Nonlinear-fitting)** | SciPy, Pandas | • Комбинация 5 функций (синус, экспонента и др.)<br>• Решение СЛАУ для коэффициентов<br>• Визуализация мультимодели |
+- Линейная регрессия
+- Метод наименьших квадратов
+- Численное дифференцирование (`np.gradient`)
+- Интегрирование полиномов
+**2. [Нелинейная аппроксимация](https://github.com/Anasity/Machine-learning/tree/2a9291a83cae8d8540636e1de1e75092d8ecee54/Machine%20learning/Nonlinear-fitting)**
+- Комбинация 5 функций (синус, экспонента и др.
+- Решение СЛАУ для коэффициентов
 ### 2. Компьютерное зрение  
-**[3. Выделение контуров](https://github.com/Anasity/Machine-learning/tree/2a9291a83cae8d8540636e1de1e75092d8ecee54/Machine%20learning/Computer-vision)** | OpenCV, PIL | • Фильтр Гаусса 3x3<br>• Бинаризация по порогу<br>• Волновой алгоритм для разметки объектов<br>• Цветное выделение границ |
+**[3. Выделение контуров](https://github.com/Anasity/Machine-learning/tree/2a9291a83cae8d8540636e1de1e75092d8ecee54/Machine%20learning/Computer-vision)** 
+- Фильтр Гаусса 3x3
+- Бинаризация по порогу
+- Волновой алгоритм для разметки объектов
+- Цветное выделение границ 
