@@ -2,12 +2,12 @@
 Проекты, выполненные в рамках курса "Нейронные сети и компьютерное зрение"  
 _Автор: Дубовик Анастасия Александровна_
  ### 1. Анализ временных рядов
-**1. [Производные валютного тренда](https://github.com/Anasity/Machine-learning/tree/2a9291a83cae8d8540636e1de1e75092d8ecee54/Machine%20learning/Linear-regression)**  
+**[1. Производные валютного тренда](https://github.com/Anasity/Machine-learning/tree/2a9291a83cae8d8540636e1de1e75092d8ecee54/Machine%20learning/Linear-regression)**  
 - Линейная регрессия
 - Метод наименьших квадратов
 - Численное дифференцирование (`np.gradient`)
-- Интегрирование полиномов   
-**2. [Нелинейная аппроксимация](https://github.com/Anasity/Machine-learning/tree/2a9291a83cae8d8540636e1de1e75092d8ecee54/Machine%20learning/Nonlinear-fitting)**
+- Интегрирование полиномов
+**[2. Нелинейная аппроксимация](https://github.com/Anasity/Machine-learning/tree/2a9291a83cae8d8540636e1de1e75092d8ecee54/Machine%20learning/Nonlinear-fitting)**
 - Комбинация 5 функций (синус, экспонента и др.
 - Решение СЛАУ для коэффициентов
 ### 2. Компьютерное зрение  
